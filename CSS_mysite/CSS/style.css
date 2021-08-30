@@ -1,0 +1,30 @@
+* {
+  margin: 0%;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+}
+.header {
+  margin-top: 5%;
+}
+.pro {
+  text-decoration: underline;
+}
+.top-container {
+  background-color: #ffe6e6;
+  position: relative;
+  padding-top: 100px;
+}
+.top-cloud {
+  background-color: brown;
+  position: absolute;
+  margin-top: 90px;
+  margin-right: -200%;
+}
+.bottom-cloud {
+  background-color: aqua;
+  position: absolute;
+}
